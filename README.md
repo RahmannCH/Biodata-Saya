@@ -1,3 +1,5 @@
+https://biodata-saya-one.vercel.app/
+
 # 🚀 Muhammad Nur Rahman - Futuristic Portfolio
 
 Website biodata interaktif dengan tema futuristik yang menampilkan profil, skills, dan perjalanan karir Muhammad Nur Rahman, mahasiswa Ilmu Komputer.
@@ -81,3 +83,4 @@ Project ini dikembangkan dengan bantuan **Artificial Intelligence** untuk:
 ---
 
 **Dibuat dengan ❤️ dan bantuan AI untuk masa depan teknologi yang lebih baik!** 🚀✨
+
